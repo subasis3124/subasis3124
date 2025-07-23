@@ -1,20 +1,16 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=subasis3124.subasis3124&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...# Hi, I'm Subasis 👋<br><br>I'm a developer passionate about building apps and learning new technologies.  <br>Currently exploring **Flutter**, **Firebase**, **Spring Boot**, and **SQL**.<br><br>---<br><br>## About Me<br>- 🔭 I’m working on: ISL Translator App, EV Charging Station Finder  <br>- 🌱 Currently learning: Flutter, Firebase, Spring Boot, SQL  <br>- 💡 Interested in: Mobile App Development, Backend Development, Databases  <br>- 📫 How to reach me: <br>Email:- subasismishra3124@gmail.com | <br>LinkedIn :- https://www.linkedin.com/in/subasismishra/<br><br>---<br><br>## Tech Stack<br>- Flutter, Dart  <br>- Java, Spring Boot  <br>- Firebase, PostgreSQL  <br>- Git & GitHub<br><br>---<br><br>**“Code. Learn. Build. Repeat.”**<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"># Hi, I'm Subasis 👋<br>- 🔭 I’m working as App developer <br><br>I'm a developer passionate about building apps and learning new technologies.  <br>Currently exploring **Flutter**, **Firebase**, **Spring Boot**, and **SQL**.<br><br>---<br><br>## About Me<br>- 🔭 I’m working on: ISL Translator App, EV Charging Station Finder  <br>- 🌱 Currently learning: Flutter, Firebase, Spring Boot, SQL, flask  <br>- 💡 Interested in: Mobile App Development, Backend Development, Databases  <br>- 📫 How to reach me: <br>Email:- subasismishra3124@gmail.com | <br>LinkedIn :- https://www.linkedin.com/in/subasismishra/<br><br>---<br><br>## Tech Stack<br>- Flutter, Dart  <br>- Java, Spring Boot  <br>- Firebase, PostgreSQL  <br>- Git & GitHub<br><br>---<br><br>**“Code. Learn. Build. Repeat.”**<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
@@ -63,6 +59,12 @@
   <a href="https://www.hackerrank.com/profile/subasismishra311" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=subasis3124.subasis3124&"  />
 </div>
 
 ###
