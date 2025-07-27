@@ -1,10 +1,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left"># Hi, I'm Subasis 👋<br>- 🔭 I’m working as App developer <br><br>I'm a developer passionate about building apps and learning new technologies.  <br>Currently exploring **Flutter**, **Firebase**, **Spring Boot**, and **SQL**.<br><br>---<br><br>## About Me<br>- 🔭 I’m working on: ISL Translator App, EV Charging Station Finder  <br>- 🌱 Currently learning: Flutter, Firebase, Spring Boot, SQL, flask  <br>- 💡 Interested in: Mobile App Development, Backend Development, Databases  <br>- 📫 How to reach me: <br>Email:- subasismishra3124@gmail.com | <br>LinkedIn :- https://www.linkedin.com/in/subasismishra/<br><br>---<br><br>## Tech Stack<br>- Flutter, Dart  <br>- Java, Spring Boot  <br>- Firebase, PostgreSQL  <br>- Git & GitHub<br><br>---<br><br>**“Code. Learn. Build. Repeat.”**<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
+<p align="left"> Hi, I'm Subasis 👋<br>- 🔭 I’m working as App developer <br><br>I'm a developer passionate about building apps and learning new technologies.  <br>Currently exploring **Flutter**, **Firebase**, **Spring Boot**, and **SQL**.<br><br>---<br><br>## About Me<br>- 🔭 I’m working on: ISL Translator App, EV Charging Station Finder  <br>- 🌱 Currently learning: Flutter, Firebase, Spring Boot, SQL, flask  <br>- 💡 Interested in: Mobile App Development, Backend Development, Databases  <br>- 📫 How to reach me: <br>Email:- subasismishra3124@gmail.com | <br>LinkedIn :- https://www.linkedin.com/in/subasismishra/<br><br>---<br><br>## Tech Stack<br>- Flutter, Dart  <br>- Java, Spring Boot  <br>- Firebase, PostgreSQL  <br>- Git & GitHub<br><br>---<br><br>**“Code. Learn. Build. Repeat.”**<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+
 
 <br clear="both">
 
@@ -12,11 +12,11 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/subasismishra/" target="_blank">
@@ -61,20 +61,20 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=subasis3124.subasis3124&"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=subasis3124&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+
